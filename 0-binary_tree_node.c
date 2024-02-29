@@ -22,9 +22,3 @@ binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
 	new_node->right = NULL;
 	return (new_node);
 }
-Symbols
-Find definitions and references for functions and other symbols in this file by clicking a symbol below or in the code.
-r
-
-    func
-    binary_tree_node
